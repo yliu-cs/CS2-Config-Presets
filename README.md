@@ -23,6 +23,10 @@ CS2 CFG放在游戏目录 `game\csgo\cfg`，如：
 ...steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
 
+## 其它
+
+[其它配置](https://settings.gg/player/133990121)。
+
 ## 致谢
 
 感谢[Purple-CSGO/CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets)。
